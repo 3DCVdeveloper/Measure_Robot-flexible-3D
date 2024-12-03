@@ -1,2 +1,4 @@
 # Measure_Robot-flexible-3D
 Robot flexible 3D vision online inspection
+
+By utilizing visual artificial intelligence technology (including visual sensors and deep learning algorithms) to achieve online real-time size measurement of workpieces/packages, measurement efficiency can be improved by more than 10 times, and it is stable and reliable, reducing labor costs; We will fully integrate RGB images and depth images to study the fusion scheme of classic machine vision algorithms, deep learning algorithms, and point cloud processing algorithms, so that the online measurement system can achieve the expected measurement accuracy and real-time performance. Overcoming the problems of low efficiency and difficulty in ensuring accuracy in traditional measurement methods, and thoroughly improving accuracy and efficiency with the support of visual AI technology.
